@@ -38,7 +38,7 @@ dependencies {
     implementation libs.constraintlayout
     implementation libs.navigation.fragment
     implementation libs.navigation.ui
-    implementation fileTree(dir: 'C:\\Users\\Figo\\Downloads\\virtualjoystick-1.0.0\\yoimerdr\\android\\virtualjoystick\\1.0.0', include: ['*.aar', '*.jar'], exclude: [])
+    implementation fileTree(dir: '../libs/virtualjoystick/1.0.0', include: ['*.aar', '*.jar'], exclude: [])
     testImplementation libs.junit
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
