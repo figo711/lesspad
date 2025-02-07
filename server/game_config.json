@@ -1,0 +1,20 @@
+{
+    "1d-maze": {
+        "top": "v",
+        "left": "v",
+        "right": "e",
+        "bottom": "q"
+    },
+    "custom-rooms": {
+        "top": "l",
+        "left": "l",
+        "right": "j",
+        "bottom": "k"
+    },
+    "recursed-samurai": {
+        "top": "f",
+        "left": "mouse:1",
+        "right": " ",
+        "bottom": "mouse:0"
+    }
+}
